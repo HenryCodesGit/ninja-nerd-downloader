@@ -1,0 +1,6 @@
+.vscode
+.sandbox-hidden
+.google-api/*
+output
+input
+node_modules

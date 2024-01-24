@@ -1,0 +1,24 @@
+{
+  "name": "ninja-nerd-downloader",
+  "version": "1.0.0",
+  "description": "Javascript utility to bulk download content from NinjaNerd website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryCodesGit/ninja-nerd-downloader.git"
+  },
+  "author": "HenryCodesGit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryCodesGit/ninja-nerd-downloader/issues"
+  },
+  "homepage": "https://github.com/HenryCodesGit/ninja-nerd-downloader#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "googleapis": "^27.0.0",
+    "sanitize-filename": "^1.6.3"
+  }
+}
