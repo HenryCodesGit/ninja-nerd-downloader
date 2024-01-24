@@ -7,5 +7,5 @@ Javascript utility to bulk download content from NinjaNerd website
 4. Copy and paste the javascript from 'sectionDataScraper.js' into the console.
 5. Wait. Eventually it'll spit out a JSON with all the links needed.
 
-7. [TODO: Instructions for running the sectionDataScraper on Node later]
+7. [TODO: Instructions for running the downloader on Node later]
 
